@@ -17,7 +17,6 @@ provide('toggle-appearance', async () => {
 	}
 	await document.startViewTransition(async () => {
 		isDark.value = !isDark.value
-		await nextTick()
 	}).ready
 })
 </script>

@@ -11,7 +11,7 @@ export default defineConfig({
 	ignoreDeadLinks: true,
 	base: '/yuboar/',
 	head: [
-		['link', { rel: 'icon', type: 'image/png', href: '/favicon.png' }],
+		['link', { rel: 'icon', type: 'image/png', href: '/yuboar/favicon.png' }],
 		['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }],
 		[
 			'meta',
