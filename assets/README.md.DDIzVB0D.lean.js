@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as l,a0 as t}from"./chunks/framework.B5XSQPdg.js";const o=JSON.parse('{"title":"宇博大模型聚合API平台","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),e={name:"README.md"};function n(h,s,p,k,r,d){return a(),l("div",null,[...s[0]||(s[0]=[t("",11)])])}const c=i(e,[["render",n]]);export{o as __pageData,c as default};
